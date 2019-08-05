@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SSUserApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>920503622EFBE8F65FF1B6CC1ECFBE7D8132811C</string>
+				<key>dateExpires</key>
+				<string>25/07/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>920503622EFBE8F65FF1B6CC1ECFBE7D8132811C</string>
+						<key>dateExpires</key>
+						<string>25/07/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>JSQMessagesViewController.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FXJRP4XFK3</string>
+						<key>name</key>
+						<string>Cypher App Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>920503622EFBE8F65FF1B6CC1ECFBE7D8132811C</string>
+						<key>dateExpires</key>
+						<string>25/07/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>JSQSystemSoundPlayer.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FXJRP4XFK3</string>
+						<key>name</key>
+						<string>Cypher App Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>920503622EFBE8F65FF1B6CC1ECFBE7D8132811C</string>
+						<key>dateExpires</key>
+						<string>25/07/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>SDWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FXJRP4XFK3</string>
+						<key>name</key>
+						<string>Cypher App Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>920503622EFBE8F65FF1B6CC1ECFBE7D8132811C</string>
+						<key>dateExpires</key>
+						<string>25/07/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>libwebp.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>FXJRP4XFK3</string>
+						<key>name</key>
+						<string>Cypher App Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>FXJRP4XFK3.com.idevzz.Silent-Secret</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>FXJRP4XFK3</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>SSUserApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c56ce9f3-ffac-4736-8512-8808ca119da1</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.idevzz.Silent-Secret</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>FXJRP4XFK3</string>
+				<key>name</key>
+				<string>Cypher App Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
